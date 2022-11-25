@@ -49,6 +49,8 @@ else:
 print("---------------------------------------------------------------")
 
 ```
-## Output  and result
+## Output  and result:
 ![](out.png)
+
+
 Thus we have successfully completed the arguments.
