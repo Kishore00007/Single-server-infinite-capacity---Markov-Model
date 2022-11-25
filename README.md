@@ -51,3 +51,4 @@ print("---------------------------------------------------------------")
 ```
 ## Output  and result
 ![](out.png)
+Thus we have successfully completed the arguments.
